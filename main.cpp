@@ -1,5 +1,7 @@
-// RotatingConsoleCube.cpp : Defines the entry point for the application.
-//
+/* ROTATION CONSOLE CUBE
+ *          Developer: Alvaro Flores-Romero
+ *          Version: C++ 17
+ */
 
 #include <iostream>
 #include <cmath>
