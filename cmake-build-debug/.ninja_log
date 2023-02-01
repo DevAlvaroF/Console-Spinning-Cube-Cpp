@@ -1,0 +1,7 @@
+# ninja log v5
+5	2733	6967964930628795	CMakeFiles/ConsoleSpinningCube.dir/main.cpp.obj	ebddfac9d159aa94
+2734	2941	6967964932684150	ConsoleSpinningCube.exe	ea442df2aa2a4094
+13	611	6967366052993426	CMakeFiles/ConsoleSpinningCube.dir/Face.cpp.obj	229383b000ee293c
+6	218	6969705832527440	build.ninja	72dc48773316ceb5
+4	1668	6969705849486480	CMakeFiles/ConsoleSpinningCube.dir/main.cpp.obj	ebddfac9d159aa94
+1669	1866	6969705851422480	ConsoleSpinningCube.exe	87bf1db6a24ae25c
