@@ -1,13 +1,4 @@
 # ninja log v5
-4	1668	6969705849486480	CMakeFiles/ConsoleSpinningCube.dir/main.cpp.obj	ebddfac9d159aa94
-1669	1866	6969705851422480	ConsoleSpinningCube.exe	87bf1db6a24ae25c
-13	611	6967366052993426	CMakeFiles/ConsoleSpinningCube.dir/Face.cpp.obj	229383b000ee293c
-6	218	6969722846194482	build.ninja	72dc48773316ceb5
-4	1680	6969722915169429	CMakeFiles/ConsoleSpinningCube.dir/main.cpp.obj	ebddfac9d159aa94
-1681	1825	6969722916580577	ConsoleSpinningCube.exe	87bf1db6a24ae25c
-4	1441	6969733950651625	CMakeFiles/ConsoleSpinningCube.dir/main.cpp.obj	ebddfac9d159aa94
-1442	1587	6969733952076905	ConsoleSpinningCube.exe	87bf1db6a24ae25c
-3	1601	6969738949137934	CMakeFiles/ConsoleSpinningCube.dir/main.cpp.obj	ebddfac9d159aa94
-1602	1741	6969738950504951	ConsoleSpinningCube.exe	87bf1db6a24ae25c
-3	1497	6969744048762263	CMakeFiles/ConsoleSpinningCube.dir/main.cpp.obj	ebddfac9d159aa94
-1498	1639	6969744050126729	ConsoleSpinningCube.exe	87bf1db6a24ae25c
+4	1625	6969751412887322	CMakeFiles/ConsoleSpinningCube.dir/main.cpp.obj	3540a94630930ee9
+1626	1770	6969751414279952	ConsoleSpinningCube.exe	87bf1db6a24ae25c
+6	218	6969758535617559	build.ninja	72dc48773316ceb5

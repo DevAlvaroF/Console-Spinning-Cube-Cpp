@@ -18,7 +18,9 @@ To be visualized correctly the console size in Windows was set to:
 2. If character display isn't working correctly, the library "cstdint" should be used instead for the type of declared variables.
 Sometimes the CPU architectures may change the number of bits used for char and int variables.
 
+3. If you are using CLion by JetBrains (could happen with any other IDE) you have to run in an external Console or it won't show. In CLion go to Run-> Edit Configurations and Select "Run in External Console"
 
+![external_console_run.png](external_console_run.png)
 ## Sample
 Please feel free to use it. Cite this repository if used.
 
