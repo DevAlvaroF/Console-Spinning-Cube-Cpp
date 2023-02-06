@@ -163,7 +163,7 @@ void getSurface(float cubeX, float cubeY, float cubeZ, string face)
     else if (face == "back")
     {
         ch = '.';
-        // Front
+        // Back
         xNormalRotated = calculatexNormal_Rotation(normBack);
         yNormalRotated = calculateYNormal_Rotation(normBack);
         zNormalRotated = calculateZNormal_Rotation(normBack);
@@ -173,7 +173,7 @@ void getSurface(float cubeX, float cubeY, float cubeZ, string face)
     else if (face == "up")
     {
         ch = '^';
-        // Front
+        // Up
         xNormalRotated = calculatexNormal_Rotation(normUp);
         yNormalRotated = calculateYNormal_Rotation(normUp);
         zNormalRotated = calculateZNormal_Rotation(normUp);
@@ -183,7 +183,7 @@ void getSurface(float cubeX, float cubeY, float cubeZ, string face)
     else if (face == "down")
     {
         ch = '$';
-        // Front
+        // Down
         xNormalRotated = calculatexNormal_Rotation(normDown);
         yNormalRotated = calculateYNormal_Rotation(normDown);
         zNormalRotated = calculateZNormal_Rotation(normDown);
@@ -195,7 +195,7 @@ void getSurface(float cubeX, float cubeY, float cubeZ, string face)
     else if (face == "left")
     {
         ch = '~';
-        // Front
+        // Left
         xNormalRotated = calculatexNormal_Rotation(normLeft);
         yNormalRotated = calculateYNormal_Rotation(normLeft);
         zNormalRotated = calculateZNormal_Rotation(normLeft);
@@ -207,7 +207,7 @@ void getSurface(float cubeX, float cubeY, float cubeZ, string face)
     else if (face == "right")
     {
         ch = '+';
-        // Front
+        // Right
         xNormalRotated = calculatexNormal_Rotation(normRight);
         yNormalRotated = calculateYNormal_Rotation(normRight);
         zNormalRotated = calculateZNormal_Rotation(normRight);
