@@ -1,3 +1,0 @@
-D:/Portfolio/Console-Spinning-Cube-Cpp/cmake-build-debug/CMakeFiles/ConsoleSpinningCube.dir
-D:/Portfolio/Console-Spinning-Cube-Cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Portfolio/Console-Spinning-Cube-Cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
